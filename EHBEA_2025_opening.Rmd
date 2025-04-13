@@ -75,7 +75,7 @@ We adopted the Puffin as the mascotte for this EHBEA. And if you manage to exten
 knitr::include_graphics("Organising_team.png")
 ```
 
-*  + On the day staff / student volunteers from Northumbria and Newcastle.
+*  Plus: On the day staff / student volunteers from Northumbria and Newcastle.
 
 ---
 ## Thanks to our sponsors.
@@ -136,7 +136,7 @@ knitr::include_graphics("Puffin_yellow.jpg")
 
 --
 
-* Dinner ticket (golden sticker - additional based on your dietary preferences). --> still some available contact the registration
+* Dinner ticket (golden sticker - additional based on your dietary preferences). --> still some available contact the registration desk.
 
 ```{r, out.width = "300px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("dinner_logo.png")
@@ -203,6 +203,18 @@ knitr::include_graphics("evolutionary_human sciences.jpg")
 ```{r, out.width = "300px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("Puffin_science.jpg")
 ```
+
+---
+## Programme: Social
+
+* Wednesday from 6.30pm : Donzoko Brewery & Taproom in Ouseburn (~11 min walk from venue - check map incl. with badge). 
+
+* Feel free to bring food (Gingerino’s pizzeria is right next door!).
+
+```{r, out.width = "400px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("Puffin_brewery.jpg")
+```
+
 
 ---
 ## Programme: Plenaries
