@@ -123,7 +123,7 @@ knitr::include_graphics("Puffin_yellow.jpg")
 
 --
 
-* Code of Conduct - Amanda Rotella, Paula Sheppard, David Coall (or approach desk and we will put you in touch)
+* **Code of Conduct**: Amanda Rotella, Paula Sheppard, David Coall (or approach desk and we will put you in touch)
 
 ---
 ## Your badge...
@@ -136,10 +136,23 @@ knitr::include_graphics("Puffin_yellow.jpg")
 
 --
 
-* Dinner ticket (golden sticker - additional based on your dietary preferences). --> still some available contact the registration desk.
+* Dinner ticket (golden sticker - additional based on your dietary preferences). --> very few still available. Contact the registration desk.
 
-```{r, out.width = "300px", echo=FALSE, fig.align='center'}
-knitr::include_graphics("dinner_logo.png")
+```{r, out.width = "375px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("Puffin_biscuit.jpg")
+```
+
+---
+## Food... !
+
+* There will be some breakfast items at 8.30 am - each day.
+
+* Coffee breaks outside CCE003
+
+* Lunch will be served in front of café during lunch break.
+
+```{r, out.width = "400px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("Puffin_croissant.jpg")
 ```
 
 ---
