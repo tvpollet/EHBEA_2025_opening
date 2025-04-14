@@ -126,6 +126,15 @@ knitr::include_graphics("Puffin_yellow.jpg")
 * **Code of Conduct**: Amanda Rotella, Paula Sheppard, David Coall (or approach desk and we will put you in touch)
 
 ---
+## Photos
+
+Contact the registration desk or Jeanne Bovet, if you have issues with your photo being taken and/or used for EHBEA conference.
+
+```{r, out.width = "300px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("Puffin_photo.jpg")
+```
+
+---
 ## Your badge...
 
 * Useful info: have a read.
@@ -162,7 +171,7 @@ knitr::include_graphics("Puffin_croissant.jpg")
 
 --
 
-* Find the number corresponding to the poster list (_not your abstract ID_)
+* Find the number corresponding to the poster list (_not your abstract ID_). Information available tomorrow.
 
 --
 
@@ -183,7 +192,7 @@ knitr::include_graphics("Puffin_vote.jpg")
 
 --
 
-* Check your talk is uploaded on conference desktop in the room you are presenting in. (Transfer possible via USB stick)
+* Check your talk is uploaded on conference desktop in the room you are presenting in. (Email to conference email or transfer possible via USB stick)
 
 --
 
@@ -227,7 +236,6 @@ knitr::include_graphics("Puffin_science.jpg")
 ```{r, out.width = "400px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("Puffin_brewery.jpg")
 ```
-
 
 ---
 ## Programme: Plenaries
